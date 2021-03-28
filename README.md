@@ -55,6 +55,7 @@ This is a Progressive Web App where users can add expenses and deposits to their
 https://github.com/LeeKiri/PWA-budget-tracker
 
 ### URL
-https://workout-tracker-leekiri.herokuapp.com/?id=605ad6d61199eb00157cae09
+
+https://budget-leekiri.herokuapp.com/
 
 ### Screenshots
