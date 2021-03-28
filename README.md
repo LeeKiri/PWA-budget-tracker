@@ -1,8 +1,9 @@
 # PWA-budget-tracker
 This is a Progressive Web App where users can add expenses and deposits to their budget with or without a connection. When entering transactions offline, they populate the total when brought back online.
-
 ## Description 
-   Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success. This is why we have created out app as a standalone PWA with offline functionality and intallability. 
+Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success. This is why we have created out app as a standalone PWA with offline functionality and intallability.
+
+ 
 ---
 | Table of Contents |
 |---|
@@ -59,3 +60,14 @@ https://github.com/LeeKiri/PWA-budget-tracker
 https://budget-leekiri.herokuapp.com/
 
 ### Screenshots
+PWA Budget Tracker
+
+![bud](https://user-images.githubusercontent.com/73642462/112743384-96c7f600-8fe2-11eb-9c35-eff3d46a0ca6.PNG)
+
+IndexedDB data saving when Offline
+
+![bud2](https://user-images.githubusercontent.com/73642462/112743385-97608c80-8fe2-11eb-8fa3-805eefa34c23.PNG)
+
+MongoDB Atlas Collection
+
+![bud3](https://user-images.githubusercontent.com/73642462/112743383-9596c900-8fe2-11eb-8e0a-807f9b1ddae1.PNG)
